@@ -1,0 +1,12 @@
+{   
+    "token": "your_token_here",
+
+
+    "nuke_on_join": "no",
+    "guild_name": "Get nuked",
+    "ban_all": "no",
+    "channel_name": "get nuked",
+    "channel_name2": "",
+    "text": "@everyone nuked",
+    "audit_log_reason": "nuked"
+}
