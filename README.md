@@ -1,5 +1,6 @@
 ## Discord Nuke Bot
 Configurable and easy-to-use discord nuke bot.
+With banall, mass-ping, mass-channel delete and destroys the whole server.
 
 
 ## Educational Purposes Only
